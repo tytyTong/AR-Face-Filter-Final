@@ -1,0 +1,1111 @@
+Unity Editor version:    2022.3.62f3 (96770f904ca7)
+Branch:                  2022.3/respin/2022.3.62f2-4af31df585-v2
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 26.1 (Build 25B78)
+Darwin version:          25.1.0
+Architecture:            x86_64
+Running under Rosetta:   YES
+Available memory:        16384 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2022.3.62f3/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/macbookair/Desktop/ALL FILE FOR WORK/ITE Y4-S2/GAD/Basic_Face_Filter_Assets/Final_Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53468
+Successfully changed project path to: /Users/macbookair/Desktop/ALL FILE FOR WORK/ITE Y4-S2/GAD/Basic_Face_Filter_Assets/Final_Project
+/Users/macbookair/Desktop/ALL FILE FOR WORK/ITE Y4-S2/GAD/Basic_Face_Filter_Assets/Final_Project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8714640960]  Target information:
+
+Player connection [8714640960]  * "[IP] 192.168.17.146 [Port] 0 [Flags] 2 [Guid] 3453300567 [EditorId] 3453300567 [Version] 1048832 [Id] OSXEditor(0,Tong-MacBook.lan) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8714640960]  * "[IP] 192.168.2.1 [Port] 0 [Flags] 2 [Guid] 3453300567 [EditorId] 3453300567 [Version] 1048832 [Id] OSXEditor(0,Tong-MacBook.lan) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8714640960] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8714640960] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+Refreshing native plugins compatible for Editor in 23.87 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.62f3 (96770f904ca7)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2022.3.62f3/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/macbookair/Desktop/ALL FILE FOR WORK/ITE Y4-S2/GAD/Basic_Face_Filter_Assets/Final_Project/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+ preferred device: Apple M2 (high power)
+Metal devices available: 1
+0: Apple M2 (high power)
+Using device Apple M2 (high power)
+Initializing Metal device caps: Apple M2
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2022.3.62f3/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2022.3.62f3/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/2022.3.62f3/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56881
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.62f3/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.62f3/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.001094 seconds.
+- Loaded All Assemblies, in  0.511 seconds
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+[usbmuxd] Send listen message
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.874 seconds
+Domain Reload Profiling: 1386ms
+	BeginReloadAssembly (203ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (118ms)
+	LoadAllAssembliesAndSetupDomain (147ms)
+		LoadAssemblies (202ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (142ms)
+			TypeCache.Refresh (139ms)
+				TypeCache.ScanAssembly (125ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (875ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (790ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (126ms)
+			SetLoadedEditorAssemblies (14ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (8ms)
+			ProcessInitializeOnLoadAttributes (480ms)
+			ProcessInitializeOnLoadMethodAttributes (162ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.170 seconds
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  2.060 seconds
+Domain Reload Profiling: 3233ms
+	BeginReloadAssembly (375ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (44ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (97ms)
+	LoadAllAssembliesAndSetupDomain (656ms)
+		LoadAssemblies (631ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (237ms)
+			TypeCache.Refresh (181ms)
+				TypeCache.ScanAssembly (162ms)
+			ScanForSourceGeneratedMonoScriptInfo (42ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (2062ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1655ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (116ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (117ms)
+			ProcessInitializeOnLoadAttributes (1284ms)
+			ProcessInitializeOnLoadMethodAttributes (130ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Launching external process: /Applications/Unity/Hub/Editor/2022.3.62f3/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.15 seconds
+Refreshing native plugins compatible for Editor in 2.07 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4877 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 33 unused Assets / (1.5 MB). Loaded Objects now: 5337.
+Memory consumption went from 165.9 MB to 164.4 MB.
+Total: 4.795250 ms (FindLiveObjects: 0.297500 ms CreateObjectMapping: 0.139416 ms MarkObjects: 3.639292 ms  DeleteObjects: 0.718166 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.908 seconds
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  2.291 seconds
+Domain Reload Profiling: 3200ms
+	BeginReloadAssembly (336ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (34ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (55ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (59ms)
+	LoadAllAssembliesAndSetupDomain (470ms)
+		LoadAssemblies (519ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (147ms)
+			TypeCache.Refresh (95ms)
+				TypeCache.ScanAssembly (81ms)
+			ScanForSourceGeneratedMonoScriptInfo (38ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (2292ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1537ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (68ms)
+			SetLoadedEditorAssemblies (8ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (121ms)
+			ProcessInitializeOnLoadAttributes (1248ms)
+			ProcessInitializeOnLoadMethodAttributes (91ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 1.89 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4864 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (1.5 MB). Loaded Objects now: 5342.
+Memory consumption went from 169.0 MB to 167.5 MB.
+Total: 6.226250 ms (FindLiveObjects: 0.280125 ms CreateObjectMapping: 0.112084 ms MarkObjects: 5.023084 ms  DeleteObjects: 0.810208 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.ARKit.Editor: e12d2a3bc469cab61ca0ff0ff6ddba95 -> dc1fa14db583effdf9ddd096181b476f
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/ARKitBuildProcessor.cs: 7afcdd3c614f32e1c46ebf54be739aa7 -> fb4696d7a9eb7f16f564442398f5e730
+========================================================================
+Received Import Request.
+  Time since last request: 10726.177001 seconds.
+  path: Assets/_BasicFaceFilter/Prefabs/Props_GoblinEars.prefab
+  artifactKey: Guid(edc1d60fdecc9b24a86754ea5f76ec3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_BasicFaceFilter/Prefabs/Props_GoblinEars.prefab using Guid(edc1d60fdecc9b24a86754ea5f76ec3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '390c87f49573ba055bc293652bc37d2f') in 0.624341 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 28
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/_BasicFaceFilter/Prefabs/Props_Cap.prefab
+  artifactKey: Guid(6229c3363bbce7c4590b0a74326ec07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_BasicFaceFilter/Prefabs/Props_Cap.prefab using Guid(6229c3363bbce7c4590b0a74326ec07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '11f65fba1f961efc6cd0f93c78ad8a61') in 0.012807 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/_BasicFaceFilter/Prefabs/Props_Horns.prefab
+  artifactKey: Guid(0cf6f8839032dd44da3842a706ab9963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_BasicFaceFilter/Prefabs/Props_Horns.prefab using Guid(0cf6f8839032dd44da3842a706ab9963) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'dd9eec8c09c6b34119b7b44f96123a8e') in 0.006965 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/_BasicFaceFilter/Prefabs/Props_CatNose.prefab
+  artifactKey: Guid(cdbd3952e4784a9468547b3b0f4c0857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_BasicFaceFilter/Prefabs/Props_CatNose.prefab using Guid(cdbd3952e4784a9468547b3b0f4c0857) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '46e61a00dffbf8aae3425f8346ffaf23') in 0.012141 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/_BasicFaceFilter/Prefabs/Props_GrinningTeeth.prefab
+  artifactKey: Guid(ddbe0a16110c98642ac4050ccca8feab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_BasicFaceFilter/Prefabs/Props_GrinningTeeth.prefab using Guid(ddbe0a16110c98642ac4050ccca8feab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e90570012cafc83abb4d08eb93129051') in 0.006735 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 60.034506 seconds.
+  path: Assets/FaceFilter.unity
+  artifactKey: Guid(f3b74e79b96a243dea07c6e524c251c7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/FaceFilter.unity using Guid(f3b74e79b96a243dea07c6e524c251c7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e2ecf5aab9586247d6b78cfbde369e7a') in 0.204877 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/_BasicFaceFilter/Textures/FaceTexture_Geometrical.png
+  artifactKey: Guid(f2589c9f0c873034992741dab405ed67) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Textures/FaceTexture_Geometrical.png using Guid(f2589c9f0c873034992741dab405ed67) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '218646f89bab6c9bbada152dabecec36') in 0.244421 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/_BasicFaceFilter/Textures/Flame2Flipbook_16x4.tga
+  artifactKey: Guid(29b72c4f2f9d709418c6338d09595a23) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Textures/Flame2Flipbook_16x4.tga using Guid(29b72c4f2f9d709418c6338d09595a23) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e69b4804105ddf47c71d5b431dee1c00') in 0.013353 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/_BasicFaceFilter/Animations/HiHatAnimation.anim
+  artifactKey: Guid(72b0acf7190be5647afca81648a265d0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Animations/HiHatAnimation.anim using Guid(72b0acf7190be5647afca81648a265d0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b398c7ae44040ccda37ed5153f10dedc') in 0.021009 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/_BasicFaceFilter/Materials/Flame2_Particle.mat
+  artifactKey: Guid(c4bfa10a32e160749933d1aa8ab0bf5a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Materials/Flame2_Particle.mat using Guid(c4bfa10a32e160749933d1aa8ab0bf5a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2969d39c2fd63fd5581dd7ee480d8aec') in 0.011933 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/_BasicFaceFilter/Textures/star_particle.png
+  artifactKey: Guid(8f637c0e1a0270447aa04746d128e04b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Textures/star_particle.png using Guid(8f637c0e1a0270447aa04746d128e04b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a5d14dd526e0e0b4e202eddafacc62a9') in 0.009963 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/_BasicFaceFilter/Textures/PropsMaterial_Roughness.png
+  artifactKey: Guid(fa6616e09a3dab94396816f6274d1d0f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Textures/PropsMaterial_Roughness.png using Guid(fa6616e09a3dab94396816f6274d1d0f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'df1ddf81a19fe6905b9db59ef1cd6b31') in 0.011780 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/_BasicFaceFilter/Prefabs/Props_HiHat.prefab
+  artifactKey: Guid(bb955633cf56f1f48a897b385ca04e2b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Prefabs/Props_HiHat.prefab using Guid(bb955633cf56f1f48a897b385ca04e2b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3d873cb4f026eb699937a752ff1b79f7') in 0.034161 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/_BasicFaceFilter/Prefabs/Props_Moustache.prefab
+  artifactKey: Guid(c19af72d0001ce34c82ba1c7a3f5cea4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Prefabs/Props_Moustache.prefab using Guid(c19af72d0001ce34c82ba1c7a3f5cea4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5d6bde4d83aab6f4c3fbd144643a41f7') in 0.022328 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/_BasicFaceFilter/Materials/Star_Particle 1.mat
+  artifactKey: Guid(2126b0bd689d7744eac3c0d940dc96f1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Materials/Star_Particle 1.mat using Guid(2126b0bd689d7744eac3c0d940dc96f1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'bfe5b908614a9f9e118b314e272d1815') in 0.004262 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/_BasicFaceFilter/Animations/Props_CatEars.controller
+  artifactKey: Guid(686fe6ff64dc9b54f8d0d950bb9933aa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Animations/Props_CatEars.controller using Guid(686fe6ff64dc9b54f8d0d950bb9933aa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd6dc11abdfd72feb9b28c1333c0189c6') in 0.009171 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/_BasicFaceFilter/Particle Effects/Dizzy_VFX.prefab
+  artifactKey: Guid(5c1f8d39f6972a24080af43123248bff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Particle Effects/Dizzy_VFX.prefab using Guid(5c1f8d39f6972a24080af43123248bff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8a7693909c947b04ad3fd6ec4f7fdc74') in 0.008086 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/XR/Loaders/ARKitLoader.asset
+  artifactKey: Guid(85e5f9a17bec4426e8a22ea473a7e454) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/XR/Loaders/ARKitLoader.asset using Guid(85e5f9a17bec4426e8a22ea473a7e454) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'dd6d0e53124a4fb0058f70135febb218') in 0.016032 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/_BasicFaceFilter/Meshes/Props_GrinningTeeth.fbx
+  artifactKey: Guid(36662b834ddd5ab45ba40e685e5405e3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Meshes/Props_GrinningTeeth.fbx using Guid(36662b834ddd5ab45ba40e685e5405e3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'bc7c5a1fd4c241ea5b79d7295854df2d') in 0.032581 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/_BasicFaceFilter/Particle Effects/Fire_VFX.prefab
+  artifactKey: Guid(b5c43875392269c49beedc9cb1cfc14d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Particle Effects/Fire_VFX.prefab using Guid(b5c43875392269c49beedc9cb1cfc14d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e6eb14ae9258aaaa2d48493d3b2a416c') in 0.004318 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/_BasicFaceFilter/Animations/Props_CrazyEyes.controller
+  artifactKey: Guid(acb789ad21a01ce40a78fb2a0041af28) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Animations/Props_CrazyEyes.controller using Guid(acb789ad21a01ce40a78fb2a0041af28) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '74389a68cb5ce5f3d14bdad1a73225da') in 0.021330 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/_BasicFaceFilter/Prefabs/Props_GrinningTeeth.prefab
+  artifactKey: Guid(ddbe0a16110c98642ac4050ccca8feab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Prefabs/Props_GrinningTeeth.prefab using Guid(ddbe0a16110c98642ac4050ccca8feab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '355f764eeec8c6db39b83431e7e7026b') in 0.005579 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/_BasicFaceFilter/Animations/Cubes.anim
+  artifactKey: Guid(81e2addbfb798e345a82b58543e4d15f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Animations/Cubes.anim using Guid(81e2addbfb798e345a82b58543e4d15f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2693f5ca9b939b27c51f9c43673b312d') in 0.005051 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/_BasicFaceFilter/Textures/CloudFlipbook_8x8.tga
+  artifactKey: Guid(7b10a194b83e7904aba6c56e50e09949) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Textures/CloudFlipbook_8x8.tga using Guid(7b10a194b83e7904aba6c56e50e09949) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd31b6a0be4b9d2bb106455551c284cfd') in 0.009353 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/_BasicFaceFilter/Prefabs/Props_Cap.prefab
+  artifactKey: Guid(6229c3363bbce7c4590b0a74326ec07c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Prefabs/Props_Cap.prefab using Guid(6229c3363bbce7c4590b0a74326ec07c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8b7316ed299a43e7c187bbdb45ea99db') in 0.008212 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/_BasicFaceFilter/Animations/Props_HiHat.controller
+  artifactKey: Guid(cf8a9afde8adeef4286619d9f39d70a2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Animations/Props_HiHat.controller using Guid(cf8a9afde8adeef4286619d9f39d70a2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '520083164cfdffab9ad0aa10bb1b2bfe') in 0.003280 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/_BasicFaceFilter/Textures/FaceTexture_Leaves.png
+  artifactKey: Guid(4630bb32499feea4cac9c36db31f8780) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Textures/FaceTexture_Leaves.png using Guid(4630bb32499feea4cac9c36db31f8780) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '27973f886f438ca73d40bc24713848f8') in 0.012496 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/_BasicFaceFilter/Animations/CrazyEyesAnimation.anim
+  artifactKey: Guid(c80e4beef04a93144b993bd735c65678) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Animations/CrazyEyesAnimation.anim using Guid(c80e4beef04a93144b993bd735c65678) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e5c082db437db30c0f7ec955e5e5d0a4') in 0.004642 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/_BasicFaceFilter/Animations/Props_Cap.controller
+  artifactKey: Guid(28b3210151b17dd489a003b1a6e0f64e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Animations/Props_Cap.controller using Guid(28b3210151b17dd489a003b1a6e0f64e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2346b9f0308c04210fbc5e3129eab888') in 0.003365 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/_BasicFaceFilter/Materials/FaceTemplate.mat
+  artifactKey: Guid(94bc970bc540594418da619b8dae2df3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Materials/FaceTemplate.mat using Guid(94bc970bc540594418da619b8dae2df3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '42413f48786c8d06cc173cb627a1ba42') in 0.004810 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/_BasicFaceFilter/Materials/Face Debug MAT.mat
+  artifactKey: Guid(d5b24823eb2bd0f4990a6c8dc134fa9f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Materials/Face Debug MAT.mat using Guid(d5b24823eb2bd0f4990a6c8dc134fa9f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'abce3077bf756f4f7479ec558c12fbe8') in 0.004293 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/_BasicFaceFilter/Textures/Flame1Flipbook_16x5.tga
+  artifactKey: Guid(bbeeed99be399034c8546efc7fe4f328) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Textures/Flame1Flipbook_16x5.tga using Guid(bbeeed99be399034c8546efc7fe4f328) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'be08778d7aa4165fde665f14ee46dfe4') in 0.009582 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/_BasicFaceFilter/Meshes/Props_Horns.fbx
+  artifactKey: Guid(f690f71e878d1834b8ec8abf2c729e9d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Meshes/Props_Horns.fbx using Guid(f690f71e878d1834b8ec8abf2c729e9d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '798f12e8e00368ca489c8df95ad10d8f') in 0.013249 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/_BasicFaceFilter/Animations/CapAnimation.anim
+  artifactKey: Guid(7e9067db1ab59bf45babde0e6fc01f61) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Animations/CapAnimation.anim using Guid(7e9067db1ab59bf45babde0e6fc01f61) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2aa213d4ff0d1a81042e9704c8cab0a5') in 0.003960 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/_BasicFaceFilter/Textures/WispySmoke_8x8.tga
+  artifactKey: Guid(daf2cb1e450b4324181ed5c5723edae3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Textures/WispySmoke_8x8.tga using Guid(daf2cb1e450b4324181ed5c5723edae3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ae944c2fc62f7d0aee2f3934e0b63e07') in 0.010795 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/_BasicFaceFilter/Particle Effects/Steam_VFX.prefab
+  artifactKey: Guid(f04cdeaaa80365048987028f2374f4cf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Particle Effects/Steam_VFX.prefab using Guid(f04cdeaaa80365048987028f2374f4cf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '29f937a07f40f8f7ffad614b7004a733') in 0.004448 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/_BasicFaceFilter/Materials/Cloud_Particle.mat
+  artifactKey: Guid(55852932b97324f479e960c23d816495) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Materials/Cloud_Particle.mat using Guid(55852932b97324f479e960c23d816495) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '018040bd5f7f19b0f29907c4c417f576') in 0.004222 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/_BasicFaceFilter/Animations/Props_Horns.controller
+  artifactKey: Guid(0bee233353e1ca04c8254d877563dab0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Animations/Props_Horns.controller using Guid(0bee233353e1ca04c8254d877563dab0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'dc49724beba5d8fb133ba7908bea8020') in 0.003394 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/_BasicFaceFilter/Particle Effects/Rain_VFX.prefab
+  artifactKey: Guid(9270ac02681064c4ebd9dfd488853e98) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Particle Effects/Rain_VFX.prefab using Guid(9270ac02681064c4ebd9dfd488853e98) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '02da5fb7186a7cb27b4230dc84cea527') in 0.003977 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/_BasicFaceFilter/Animations/CatNoseAnimation.anim
+  artifactKey: Guid(3eaadd92878769040a18c1f8e29e4c62) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Animations/CatNoseAnimation.anim using Guid(3eaadd92878769040a18c1f8e29e4c62) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4c4362329ee030e6c9afce4574b5ced8') in 0.003361 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/XR/Loaders/SimulationLoader.asset
+  artifactKey: Guid(425e1c4e72b674e9580fed573291889c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/XR/Loaders/SimulationLoader.asset using Guid(425e1c4e72b674e9580fed573291889c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2cf49c3d72735449b42ed77efbb5a8e7') in 0.021489 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/_BasicFaceFilter/Materials/WispySmoke_Particle.mat
+  artifactKey: Guid(686180aab404feb46b7ff6943ca78fcf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Materials/WispySmoke_Particle.mat using Guid(686180aab404feb46b7ff6943ca78fcf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '42c3349ed13b15510d6a517d90c4aa17') in 0.003679 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/_BasicFaceFilter/Materials/Raindrop_Particle.mat
+  artifactKey: Guid(d626c3faf89bd9446a274676445871af) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Materials/Raindrop_Particle.mat using Guid(d626c3faf89bd9446a274676445871af) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3a014a72a71af59040c4ac3e6793e040') in 0.002753 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/_BasicFaceFilter/Meshes/Props_CatEars.fbx
+  artifactKey: Guid(0ec72729885335045b3c3b4cd436f890) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Meshes/Props_CatEars.fbx using Guid(0ec72729885335045b3c3b4cd436f890) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '314c41889143b418dec2e9f484e524e0') in 0.033556 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/_BasicFaceFilter/Animations/GrinningTeethAnimation.anim
+  artifactKey: Guid(af21aa71c99f9694b8847e95b36798bf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Animations/GrinningTeethAnimation.anim using Guid(af21aa71c99f9694b8847e95b36798bf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b3148cf92a6a0283c543856d0816e57d') in 0.010794 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/_BasicFaceFilter/Meshes/Props_CatNose.fbx
+  artifactKey: Guid(073ebbc96d42628419ec72985307b388) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Meshes/Props_CatNose.fbx using Guid(073ebbc96d42628419ec72985307b388) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '9bae8fa56d8d4bc340efa70d50730a2f') in 0.017239 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/_BasicFaceFilter/Textures/FaceTexture_Waves.png
+  artifactKey: Guid(8b395049554bd4f4eb8c2d7b33e77f88) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Textures/FaceTexture_Waves.png using Guid(8b395049554bd4f4eb8c2d7b33e77f88) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5a530bed28c0e43e8e75964ad7162002') in 0.016824 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/_BasicFaceFilter/Textures/PropsMaterial_Base_color.png
+  artifactKey: Guid(f1aa3fcb5551b0142ae8f3fdf8c48125) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Textures/PropsMaterial_Base_color.png using Guid(f1aa3fcb5551b0142ae8f3fdf8c48125) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c26e394c7afe2e651102047e5eab5d7d') in 0.009856 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/_BasicFaceFilter/Animations/CatEarLeft.controller
+  artifactKey: Guid(799d2dc51cb50ae419b043a45fe9d947) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Animations/CatEarLeft.controller using Guid(799d2dc51cb50ae419b043a45fe9d947) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8dd47e34db0c836e594ab7ca8e65b1a6') in 0.004866 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/_BasicFaceFilter/Materials/Magic_Particle.mat
+  artifactKey: Guid(6f676922a6fb04d4685159a57d04faf9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Materials/Magic_Particle.mat using Guid(6f676922a6fb04d4685159a57d04faf9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7a9f600d233fc8ec33b104294b902c7d') in 0.003459 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/XR/Resources/XRSimulationRuntimeSettings.asset
+  artifactKey: Guid(72a0edfca5996479bb8b58e04530ab8e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/XR/Resources/XRSimulationRuntimeSettings.asset using Guid(72a0edfca5996479bb8b58e04530ab8e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7b3518a6e6d6ea28320017563e0608ca') in 0.047682 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/_BasicFaceFilter/Animations/CatEarsAnimation.anim
+  artifactKey: Guid(24a9e6f3671e50f47bb70a75c08e909f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Animations/CatEarsAnimation.anim using Guid(24a9e6f3671e50f47bb70a75c08e909f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '70d9b10f3febd8d7648dc9e20dd8b0cd') in 0.003814 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/_BasicFaceFilter/Prefabs/Face_Reference_Mesh.prefab
+  artifactKey: Guid(bc8e54b1d62bd2f499826cdfa9d5d708) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_BasicFaceFilter/Prefabs/Face_Reference_Mesh.prefab using Guid(bc8e54b1d62bd2f499826cdfa9d5d708) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b6b1edc3523ed0c3e48d14255471009e') in 0.004310 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/XR/Settings/ARKitSettings.asset
+  artifactKey: Guid(356039733552a4f96909a2d00e3ac229) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/XR/Settings/ARKitSettings.asset using Guid(356039733552a4f96909a2d00e3ac229) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'fec81cc553a84fa9a3ea7cd2f15a12cb') in 0.005576 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 813.953047 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(ae11175c5eeac48a1a5d027bad99cda1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(ae11175c5eeac48a1a5d027bad99cda1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f2741106f1eb86172eb565d5b5ad9922') in 0.001262 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.975480 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(ae11175c5eeac48a1a5d027bad99cda1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts using Guid(ae11175c5eeac48a1a5d027bad99cda1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1c8ec0f93226980effc8c564e62babad') in 0.025737 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 26.744598 seconds.
+  path: Assets/Scripts/GoblinFaceFilter.cs
+  artifactKey: Guid(78f87bdc0b9ba4a67b63848bcfd7060e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/GoblinFaceFilter.cs using Guid(78f87bdc0b9ba4a67b63848bcfd7060e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1da9d3f73c61d7364046ac126ce8e3c9') in 0.006461 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.117045 seconds.
+  path: Assets/Scripts/GoblinFaceFilter.cs
+  artifactKey: Guid(78f87bdc0b9ba4a67b63848bcfd7060e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GoblinFaceFilter.cs using Guid(78f87bdc0b9ba4a67b63848bcfd7060e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3c0b359238b3d0c7a5d2c5afdb24bdb6') in 0.000384 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.903 seconds
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  2.363 seconds
+Domain Reload Profiling: 3267ms
+	BeginReloadAssembly (367ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (30ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (102ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (72ms)
+	LoadAllAssembliesAndSetupDomain (419ms)
+		LoadAssemblies (555ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (44ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (20ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (2364ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1536ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (68ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (126ms)
+			ProcessInitializeOnLoadAttributes (1237ms)
+			ProcessInitializeOnLoadMethodAttributes (96ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 2.00 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4864 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (1.5 MB). Loaded Objects now: 5356.
+Memory consumption went from 179.1 MB to 177.5 MB.
+Total: 3.758792 ms (FindLiveObjects: 0.281833 ms CreateObjectMapping: 0.127250 ms MarkObjects: 2.712458 ms  DeleteObjects: 0.636625 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.ARKit.Editor: e12d2a3bc469cab61ca0ff0ff6ddba95 -> dc1fa14db583effdf9ddd096181b476f
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/GoblinFaceFilter.cs: 62586ed39878f7d3bac1e0b3177479e7 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 6c639a2ccc014ffc7f517d46b3b90174 -> 
+  custom:scripting/monoscript/fileName/ARKitBuildProcessor.cs: 7afcdd3c614f32e1c46ebf54be739aa7 -> fb4696d7a9eb7f16f564442398f5e730
+========================================================================
+Received Import Request.
+  Time since last request: 19.724039 seconds.
+  path: Assets/Scripts/GoblinFaceFilter.cs
+  artifactKey: Guid(78f87bdc0b9ba4a67b63848bcfd7060e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GoblinFaceFilter.cs using Guid(78f87bdc0b9ba4a67b63848bcfd7060e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a77f8b78a44da4b27d900dda5a62bae8') in 0.003667 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.949 seconds
+Native extension for iOS target not found
+Native extension for OSXStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  2.586 seconds
+Domain Reload Profiling: 3536ms
+	BeginReloadAssembly (363ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (77ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (74ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (64ms)
+	LoadAllAssembliesAndSetupDomain (474ms)
+		LoadAssemblies (580ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (51ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (20ms)
+			ResolveRequiredComponents (17ms)
+	FinalizeReload (2587ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1727ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (73ms)
+			SetLoadedEditorAssemblies (9ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (136ms)
+			ProcessInitializeOnLoadAttributes (1398ms)
+			ProcessInitializeOnLoadMethodAttributes (110ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 6.30 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4864 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (1.6 MB). Loaded Objects now: 5361.
+Memory consumption went from 184.6 MB to 183.0 MB.
+Total: 3.634125 ms (FindLiveObjects: 0.257166 ms CreateObjectMapping: 0.126083 ms MarkObjects: 2.579708 ms  DeleteObjects: 0.670417 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/precompiled-assembly-types:Unity.XR.ARKit.Editor: e12d2a3bc469cab61ca0ff0ff6ddba95 -> dc1fa14db583effdf9ddd096181b476f
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/GoblinFaceFilter.cs: 62586ed39878f7d3bac1e0b3177479e7 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 6c639a2ccc014ffc7f517d46b3b90174 -> 
+  custom:scripting/monoscript/fileName/ARKitBuildProcessor.cs: 7afcdd3c614f32e1c46ebf54be739aa7 -> fb4696d7a9eb7f16f564442398f5e730
+========================================================================
+Received Import Request.
+  Time since last request: 844.646884 seconds.
+  path: Assets/_BasicFaceFilter/Prefabs/Props_GoblinEars.prefab
+  artifactKey: Guid(edc1d60fdecc9b24a86754ea5f76ec3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_BasicFaceFilter/Prefabs/Props_GoblinEars.prefab using Guid(edc1d60fdecc9b24a86754ea5f76ec3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '22c95fb1d97261932bb8daa30b88196f') in 0.309911 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 29
